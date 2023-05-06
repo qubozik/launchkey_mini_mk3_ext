@@ -5,6 +5,8 @@
 Codec/script supporting [Launchkey Mini MK3](https://novationmusic.com/en/keys/launchkey-mini) in [Reason Studios](https://www.reasonstudios.com/en/reason).
 Works with Firmware update v1.1.
 
+Does not skip multiple tracks on "Next Track" or "Previous Track" operations as the Novation provided remotemap does.
+
 If you are new, read [Prop's blog about Control Remote](https://www.reasonstudios.com/blog/control-remote).
 
 - [Install](#Install)
