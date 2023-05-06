@@ -1,3 +1,5 @@
+mkdir -p "/Library/Application Support/Propellerhead Software/Remote/Codecs/Lua Codecs/Novation"
+mkdir -p "/Library/Application Support/Propellerhead Software/Remote/Maps/Novation"
 cp -f ./*.remotemap "/Library/Application Support/Propellerhead Software/Remote/Maps/Novation/"
 cp -f ./*.luacodec "/Library/Application Support/Propellerhead Software/Remote/Codecs/Lua Codecs/Novation/"
 cp -f ./*.lua "/Library/Application Support/Propellerhead Software/Remote/Codecs/Lua Codecs/Novation/"
